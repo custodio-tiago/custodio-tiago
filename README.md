@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-Meu nome é Tiago, sou estudante de Sistemas para Internet na UTFPR. Costumo trabalhar com desenvolvimento web mas sou um entusiasta de desenvolvimento de games também. Aqui tem algumas coisas que andei fazendo. Enjoy!
+My name is Tiago, I am a Systems for Internet student at UTFPR. I usually work with web development, but I am also a game development enthusiast. Here are some things I've been working on. Enjoy!
