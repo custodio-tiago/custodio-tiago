@@ -2,10 +2,6 @@
 Systems for Internet student at UTFPR. I usually work with web development, but I am also a game development enthusiast. Here are some things I've been working on. Enjoy!
   
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=custodio-tiago&label=Profile%20views&color=0e75b6&style=flat" alt="custodio-tiago" /> </p>
-
-
-
 - 👨‍💻 All of my projects are available at [https://tiagocustodio.netlify.app/portfolio](https://tiagocustodio.netlify.app/portfolio)
 
 - 📝 I regularly write articles on [https://tiagocustodio.netlify.app/blog](https://tiagocustodio.netlify.app/blog)
